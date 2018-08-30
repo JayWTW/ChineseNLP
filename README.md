@@ -6,4 +6,4 @@
 
 3、主函数为HandleText.java
 
-4、若代码出现许可问题，请到NLPIR（https://github.com/NLPIR-team/NLPIR）中获取新的许可证
+4、若代码出现许可问题，请到NLPIR(https://github.com/NLPIR-team/NLPIR)中获取新的许可证
